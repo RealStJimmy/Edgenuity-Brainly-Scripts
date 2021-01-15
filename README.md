@@ -1,7 +1,3 @@
-
-I made the first two of these scripts while learning js so dont judge the code quality lmao. 
-I also have no clue how to use git so dont judge my github page either
-
 <br>Reddit: u/subatomicmc
 <br>Discord: s | || || |_#9535
 
