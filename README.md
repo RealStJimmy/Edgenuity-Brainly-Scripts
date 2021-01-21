@@ -31,4 +31,4 @@
 
 <h1> NOTE CURRENTLY BRAINLY SERACH AND THIS ARE INCOMPATABLE TURN ONE OR THE OTHER OFF WHILE USING. WORKING ON A PATCH </h1>
 
-<a href=moz-extension://582ede96-109d-499f-b21b-2d2c121b2c0a/options.html#nav=278efb63-357a-4886-95e3-1f51e6744789+editor>Install here </a>
+<a href="moz-extension://582ede96-109d-499f-b21b-2d2c121b2c0a/options.html#nav=278efb63-357a-4886-95e3-1f51e6744789">Install here </a>
