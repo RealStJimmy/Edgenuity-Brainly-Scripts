@@ -26,3 +26,9 @@
 <p>REQUIRES EdgenTweaks with auto advance, and practice guessing on.</p>
 <a href="https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js">Install EdgenTweaks</a><br>
 <a href="https://github.com/Subatomicmc/Edgenuity-Brainly-Scripts/raw/master/VideoWatcher.user.js">Install Video Watcher</a>
+
+<h3>Easy Search for SpanishDict, Most code stolen from Brainly Search</h3>
+
+<h1> NOTE CURRENTLY BRAINLY SERACH AND THIS ARE INCOMPATABLE TURN ONE OR THE OTHER OFF WHILE USING. WORKING ON A PATCH </h1>
+
+<a href=moz-extension://582ede96-109d-499f-b21b-2d2c121b2c0a/options.html#nav=278efb63-357a-4886-95e3-1f51e6744789+editor>Install here </a>
